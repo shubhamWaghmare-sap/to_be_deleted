@@ -1,0 +1,15 @@
+CLASS zcl_sw_test_class DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+  "In trial system commit 3
+ENDCLASS.
+
+
+
+CLASS zcl_sw_test_class IMPLEMENTATION.
+ENDCLASS.
